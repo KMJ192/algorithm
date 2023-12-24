@@ -1,8 +1,6 @@
-import "./style.css";
-import { setupCounter } from "./counter.js";
+import './style.css';
+import { setupCounter } from './counter.js';
 
-document.querySelector("#app").innerHTML = `
+document.querySelector('#app').innerHTML = ``;
 
-`;
-
-setupCounter(document.querySelector("#counter"));
+setupCounter(document.querySelector('#counter'));
