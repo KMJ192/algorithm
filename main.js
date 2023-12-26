@@ -1,5 +1,4 @@
 import './style.css';
-
-import run from './src/HashTable/twoSum';
+import run from './src/Graph/cloneGraph';
 
 run();
