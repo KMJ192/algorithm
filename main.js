@@ -1,4 +1,4 @@
 import './style.css';
-import run from './src/Graph/cloneGraph';
+import run from './src/DivideAndConquer/ExpressibleBinaryTree/ExpressibleBinaryTree';
 
 run();
